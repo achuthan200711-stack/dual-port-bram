@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+CIM AND Result: f000 (Expected: f000)
+CIM OR Result: fffc (Expected: fffc)
+$finish called at time : 415 ns : File "C:/Users/ACHUTHAN/DPRAM_BRAM_7/DPRAM_BRAM_7.srcs/sim_1/new/tb_dpram.v" Line 97
